@@ -1,11 +1,12 @@
 <Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
-    <TargetFramework>net5.0</TargetFramework>
+	  <!--Weet dat dit geen refactor was. maar wilde geen nieuwe versie downloaden-->
+	  <TargetFramework>net8.0</TargetFramework>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="5.0.10" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="8.0.8" />
   </ItemGroup>
 
 </Project>

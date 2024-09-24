@@ -1,0 +1,19 @@
+﻿ToDo:
+- Models
+	- People
+	- Article
+
+- Database layer
+	- DbContext
+
+- Services
+	- PeopleService
+	- BlogService
+
+- Controller
+	- blogcontroller
+	- Peoplecontroller
+
+- Views
+	- Blog
+	- People
